@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |

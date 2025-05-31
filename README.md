@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0231-power-of-two) |

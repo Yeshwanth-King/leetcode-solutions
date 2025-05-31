@@ -88,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0204-count-primes) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

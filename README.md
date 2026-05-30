@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0394-decode-string](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0394-decode-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -104,12 +105,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0394-decode-string](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0394-decode-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0155-min-stack) |
+| [0394-decode-string](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0394-decode-string) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Design
 |  |

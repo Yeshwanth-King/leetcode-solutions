@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [3834-merge-adjacent-equal-elements](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/3834-merge-adjacent-equal-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0394-decode-string) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3834-merge-adjacent-equal-elements](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/3834-merge-adjacent-equal-elements) |
 ## Design
 |  |
 | ------- |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [3834-merge-adjacent-equal-elements](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/3834-merge-adjacent-equal-elements) |
 <!---LeetCode Topics End-->

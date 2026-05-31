@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0396-rotate-function](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0396-rotate-function) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3834-merge-adjacent-equal-elements](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/3834-merge-adjacent-equal-elements) |
 ## Hash Table
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0396-rotate-function](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0396-rotate-function) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Linked List
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0338-counting-bits](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0338-counting-bits) |
+| [0396-rotate-function](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0396-rotate-function) |
 ## Enumeration
 |  |
 | ------- |

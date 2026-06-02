@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0338-counting-bits) |
 | [1054-complement-of-base-10-integer](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/1054-complement-of-base-10-integer) |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 ## Math
 |  |
 | ------- |
@@ -140,4 +141,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3834-merge-adjacent-equal-elements](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/3834-merge-adjacent-equal-elements) |
+## Tree
+|  |
+| ------- |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 <!---LeetCode Topics End-->

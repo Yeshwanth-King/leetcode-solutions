@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0394-decode-string) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -144,10 +145,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -156,5 +159,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 <!---LeetCode Topics End-->

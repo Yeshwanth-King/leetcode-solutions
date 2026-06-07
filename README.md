@@ -147,12 +147,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -164,5 +166,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->

@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0396-rotate-function](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0396-rotate-function) |
+| [0496-next-greater-element-i](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3834-merge-adjacent-equal-elements](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/3834-merge-adjacent-equal-elements) |
 ## Hash Table
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0394-decode-string) |
+| [0496-next-greater-element-i](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3834-merge-adjacent-equal-elements](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/3834-merge-adjacent-equal-elements) |
 ## Design
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Queue
 |  |
 | ------- |

@@ -1,26 +1,30 @@
 class Solution {
     public String convert(String s, int numRows) {
-        if(numRows == 1)
+        if(numRows == 1 || s.length() <= numRows)
         {
             return s;
         }
-        String res = "";
-        int n = s.length();
-        int steps = (n - 1) * 2;
-        int iter;
-        int incrementer;
-        incrementer = (numRows - 1) * 2;
-        for(iter = 0; iter < numRows; iter++)
+        String[] rows = new String[numRows];
+        int row = 0;
+        boolean goingDown = false;
+        for(int iter = 0; iter < numRows; iter++)
         {
-            for(int resIter = iter; resIter < n; resIter = resIter + incrementer)
-            {
-                res += s.charAt(resIter);
-                if(iter > 0 && iter < numRows - 1 && resIter + incrementer - 2 * iter < n)
-                {
-                    res += s.charAt(resIter + incrementer - 2 * iter);
-                }
-            }
+            rows[iter] = "";
         }
-        return res;
+        for(int iter = 0; iter < s.length(); iter++)
+        {
+            rows[row] += s.charAt(iter);
+            if(row == 0 || row == numRows - 1)
+            {
+                goingDown = !goingDown;
+            }
+            row += goingDown ? 1 : -1;
+        }
+        String result = "";
+        for(int iter = 0; iter < numRows; iter++)
+        {
+            result += rows[iter];
+        }
+        return result;
     }
 }

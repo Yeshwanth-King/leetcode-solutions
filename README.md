@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0006-zigzag-conversion) |
+| [0014-longest-common-prefix](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0394-decode-string) |
@@ -189,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0796-rotate-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Yeshwanth-King/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

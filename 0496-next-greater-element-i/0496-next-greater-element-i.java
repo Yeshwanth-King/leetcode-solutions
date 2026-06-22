@@ -18,9 +18,6 @@ class Solution {
             }
             st.push(nums2[iter]);
         }
-         for (Map.Entry<Integer, Integer> entry : map.entrySet()) {
-            System.out.println(entry.getKey() + " -> Count: " + entry.getValue());
-        }
         int [] result = new int[nums1.length];
         for(int iter = 0; iter < nums1.length; iter++)
         {

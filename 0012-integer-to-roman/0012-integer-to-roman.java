@@ -10,15 +10,16 @@ class Solution {
             100,90,50,40,
             10,9,5,4,1
         };
-        String ans = "";
+        // String ans = "";
+        StringBuilder ans = new StringBuilder();
         for(int iter = 0; iter < values.length;iter++)
         {
             while(num >= values[iter])
             {
-                ans += roman[iter];
+                ans.append(roman[iter]);
                 num -= values[iter];
             }
         }
-        return ans;
+        return ans.toString();
     }
 }
